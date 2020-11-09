@@ -1,0 +1,6 @@
+node_modules/
+dist/
+logs/
+package-lock.json
+DATABASE
+**/.DS_Store

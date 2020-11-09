@@ -1,0 +1,17 @@
+{
+  "name": "reshuffle-monday-salesforce-example",
+  "version": "0.0.1",
+  "description": "Sync account information between Monday and Salesforce",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --unhandled-rejections=strict index.js",
+    "test": "echo \"No tests yet\" && exit 1"
+  },
+  "author": "Avner Braverman",
+  "license": "MIT",
+  "dependencies": {
+    "reshuffle": "^1.0.2",
+    "reshuffle-monday-connector": "^0.0.5",
+    "reshuffle-salesforce-connector": "^0.0.4"
+  }
+}
